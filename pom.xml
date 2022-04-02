@@ -4,7 +4,7 @@
 
     <groupId>id.natanhp.kafka</groupId>
     <artifactId>TCP-Client-Kafka-Connector</artifactId>
-    <version>1.0.0-SNAPSHOT</version>
+    <version>y</version>
     <build>
         <plugins>
             <plugin>
@@ -78,7 +78,7 @@
         <connection>scm:git:git@github.com:natanhp/TCP-Client-Kafka-Connector.git</connection>
         <developerConnection>scm:git:git@github.com:natanhp/TCP-Client-Kafka-Connector.git</developerConnection>
         <url>https://github.com/natanhp/TCP-Client-Kafka-Connector</url>
-        <tag>@{project.version}</tag>
+        <tag>y</tag>
     </scm>
 
 </project>
