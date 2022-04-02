@@ -39,3 +39,6 @@ host=<TCP Server Host>
 ```bash
 connect-standalone connect-standalone.properties TCPConnector.properties
 ```
+
+## Contributing
+Please read [CONTRIBUTING.md](CONTRIBUTING.md)
